@@ -13,4 +13,3 @@ const cityApi = {
   },
 };
 export default cityApi;
-``
